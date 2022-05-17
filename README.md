@@ -12,7 +12,7 @@ Tester un formulaire sur le site http://demo.seleniumeasy.com/ avec Selenium
 
 ### Installation
 
-- Executer la commande ``git clone https://github.com/Malena49/Browser-Automation-Selenium.git``
+- Executer la commande ``git clone https://github.com/Malena49/Browser-Input-Selenium.git``
 - Executer la commande ``pip install selenium``
 
 ## Démarrage
