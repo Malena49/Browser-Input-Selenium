@@ -29,4 +29,4 @@ cacul_total.click()
 resultat_total = driver.find_element(by=By.ID, value= "displayvalue").get_attribute('innerHTML').strip()
 if int(resultat_total) != 56:
    raise Exception("Le cacul n'est pas correct.")
-driver.close()
+driver.quit()
