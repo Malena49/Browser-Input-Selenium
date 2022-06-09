@@ -2,7 +2,7 @@
 
 ## Présentation
 
-Tester un formulaire sur le site http://demo.seleniumeasy.com/ avec Selenium
+Tester un formulaire sur le site http://demo.seleniumeasy.com/ avec Selenium 
 
 ### Pré-requis
 
